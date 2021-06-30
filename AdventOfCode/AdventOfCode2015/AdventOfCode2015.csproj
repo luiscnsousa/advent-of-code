@@ -1,0 +1,119 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Days\Day01\Day01Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day01\Day01Problem.txt" />
+      <Content Include="Days\Day02\Day02Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day02\Day02Problem.txt" />
+      <Content Include="Days\Day03\Day03Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day03\Day03Problem.txt" />
+      <Content Include="Days\Day04\Day04Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day04\Day04Problem.txt" />
+      <Content Include="Days\Day05\Day05Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day05\Day05Problem.txt" />
+      <Content Include="Days\Day06\Day06Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day06\Day06Problem.txt" />
+      <Content Include="Days\Day07\Day07Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day07\Day07Problem.txt" />
+      <Content Include="Days\Day08\Day08Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day08\Day08Problem.txt" />
+      <Content Include="Days\Day09\Day09Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day09\Day09Problem.txt" />
+      <Content Include="Days\Day10\Day10Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day10\Day10Problem.txt" />
+      <Content Include="Days\Day11\Day11Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day11\Day11Problem.txt" />
+      <Content Include="Days\Day12\Day12Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day12\Day12Problem.txt" />
+      <Content Include="Days\Day13\Day13Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day13\Day13Problem.txt" />
+      <Content Include="Days\Day14\Day14Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day14\Day14Problem.txt" />
+      <Content Include="Days\Day15\Day15Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day15\Day15Problem.txt" />
+      <Content Include="Days\Day16\Day16Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day16\Day16Problem.txt" />
+      <Content Include="Days\Day17\Day17Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day17\Day17Problem.txt" />
+      <Content Include="Days\Day18\Day18Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day18\Day18Problem.txt" />
+      <Content Include="Days\Day19\Day19Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day19\Day19Problem.txt" />
+      <Content Include="Days\Day20\Day20Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day20\Day20Problem.txt" />
+      <Content Include="Days\Day21\Day21Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day21\Day21Problem.txt" />
+      <Content Include="Days\Day22\Day22Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day22\Day22Problem.txt" />
+      <Content Include="Days\Day23\Day23Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day23\Day23Problem.txt" />
+      <Content Include="Days\Day24\Day24Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day24\Day24Problem.txt" />
+      <Content Include="Days\Day25\Day25Input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Days\Day25\Day25Problem.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Days" />
+    </ItemGroup>
+
+</Project>
