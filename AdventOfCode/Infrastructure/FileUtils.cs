@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode2015.Common
+﻿namespace Infrastructure
 {
     using System;
     using System.Diagnostics;
