@@ -1,6 +1,5 @@
 namespace AdventOfCode2016.Days
 {
-    using System.Collections.Generic;
     using AdventOfCode2016.Common;
     using Infrastructure;
 
@@ -10,7 +9,7 @@ namespace AdventOfCode2016.Days
         {
             var input = FileUtils.GetProblemInput()[0];
 
-            return new Answer { Part1 = this.SolvePart1(input), Part2 = this.SolvePart2(input) };
+            return new Answer { Part1 = SolvePart1(input), Part2 = SolvePart2(input) };
         }
 
         private object SolvePart1(string input)
